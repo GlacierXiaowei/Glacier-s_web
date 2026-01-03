@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on 冰粉俱乐部</title>
-        <link>https://example.com/tags/</link>
+        <link>https://glacierxiaowei.github.io/Glacier-s_web/tags/</link>
         <description>Recent content in Tags on 冰粉俱乐部</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Glacier&#39;s 冰川氏互娱</copyright><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Glacier&#39;s 冰川氏互娱</copyright><atom:link href="https://glacierxiaowei.github.io/Glacier-s_web/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

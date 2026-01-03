@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 冰粉俱乐部</title>
+        <link>https://example.com/page/</link>
+        <description>Recent content in Pages on 冰粉俱乐部</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Glacier&#39;s 冰川氏互娱</copyright>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>归档</title>
+        <link>https://example.com/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://example.com/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;我是冰川小未。&lt;br&gt;
+天津大学2025级智能与计算类🖥️学生。&lt;br&gt;
+独立游戏开发者🎮，独立内容创作者📸，数学特困生和C++特困生一枚💩。&lt;br&gt;
+合作意愿请邮箱 &lt;code&gt;glacier_xiaowei@163.com&lt;/code&gt;&lt;br&gt;
+更多内容有点懒得写，请见谅😉。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Glacier&amp;rsquo;s 冰川氏互娱
+For everything we&amp;rsquo;re enjoying&lt;br&gt;
+我们希望能够做出我们想做的游戏，哪怕只是一厢情愿。&lt;br&gt;
+感谢朋友们的支持。&lt;br&gt;
+同时，如果不是我在高三那年认识的那些朋友们，也许我就不会走到今天这一步&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://example.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>友情链接</title>
+        <link>https://example.com/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
+        <description>&lt;p&gt;以下为制作网页过程中使用到的部分网站。&lt;br&gt;
+以及部分友情链接。&lt;br&gt;
+如需访问作者Github主页，请点击侧边栏的对应标志。&lt;br&gt;
+本网页&lt;br&gt;
+使用 &lt;code&gt;Hugo&lt;/code&gt; 构建&lt;br&gt;
+主题 &lt;code&gt;Stack&lt;/code&gt; 由 &lt;code&gt;Jimmy&lt;/code&gt; 设计&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

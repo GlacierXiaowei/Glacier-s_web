@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 冰粉俱乐部</title>
+        <link>https://example.com/post/</link>
+        <description>Recent content in Posts on 冰粉俱乐部</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Glacier&#39;s 冰川氏互娱</copyright>
+        <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ETN_Launcher-1号补丁版本发布</title>
+        <link>https://example.com/post/etn_launcher-1%E5%8F%B7%E8%A1%A5%E4%B8%81%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</link>
+        <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/post/etn_launcher-1%E5%8F%B7%E8%A1%A5%E4%B8%81%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</guid>
+        <description>&lt;img src="https://example.com/post/etn_launcher-1%E5%8F%B7%E8%A1%A5%E4%B8%81%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/post_cover.jpg" alt="Featured image of post ETN_Launcher-1号补丁版本发布" /&gt;&lt;h1 id=&#34;etn-launcher-v1001&#34;&gt;ETN Launcher v1.0.0.1
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1号补丁版本&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;构建日期2025.12.2&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;启动器统一版本号1.0.0.1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;开发者：Glacier Xiaowei（冰川小未）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;版权所有 ©2025 Glacier&amp;rsquo;s 冰川氏互娱&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-修复与优化&#34;&gt;🐞 修复与优化
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;修复检查更新始终判断当前版本不是最新版本的问题&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;修复游戏内更新内容无法查看的问题&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;修复了游戏版本号（内置）错误的问题- 主菜单左上角新增版本信息&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;修复网络错误提示窗口无法关闭的问题- 退出游戏新增提示语&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-下载地址点击跳转&#34;&gt;⬇️ 下载地址（点击跳转）
+&lt;/h2&gt;&lt;p&gt;庆祝1.0.0.0版本的孵化（这里修复几个bug）&lt;br&gt;
+仓库地址 &lt;a class=&#34;link&#34; href=&#34;https://github.com/GlacierXiaowei/ETN_Launcher&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;前往仓库页面&lt;/a&gt;&lt;br&gt;
+通用地址 &lt;a class=&#34;link&#34; href=&#34;https://github.com/GlacierXiaowei/ETN_Launcher/releases/tag/v1.0.0.1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;前往Github-release&lt;/a&gt;&lt;br&gt;
+国内网盘 &lt;a class=&#34;link&#34; href=&#34;https://www.123865.com/s/otkUjv-tWYUh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;前往123云盘&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ETN_Launcher-v1.0版本发布</title>
+        <link>https://example.com/post/etn_launcher-v1.0%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</link>
+        <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/post/etn_launcher-v1.0%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</guid>
+        <description>&lt;img src="https://example.com/post/etn_launcher-v1.0%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/post_cover.png" alt="Featured image of post ETN_Launcher-v1.0版本发布" /&gt;&lt;h1 id=&#34;etn-launcher-v1000&#34;&gt;ETN Launcher v1.0.0.0
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;构建日期2025.12.2&lt;/li&gt;
+&lt;li&gt;启动器统一版本号1.0.0.0&lt;/li&gt;
+&lt;li&gt;内置游戏版本号0.0.0.0&lt;/li&gt;
+&lt;li&gt;开发者：Glacier Xiaowei（冰川小未）&lt;/li&gt;
+&lt;li&gt;版权所有 ©2025 Glacier&amp;rsquo;s 冰川氏互娱&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-新增功能&#34;&gt;✨ 新增功能
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;所有的按钮功能已实装&lt;/li&gt;
+&lt;li&gt;“设置”菜单现在可以调整音乐声音大小&lt;/li&gt;
+&lt;li&gt;“设置”菜单可以更换启动音乐（无记忆功能）&lt;/li&gt;
+&lt;li&gt;“设置”菜单可以修复游戏&lt;/li&gt;
+&lt;li&gt;”关于“菜单新增描述和链接&lt;/li&gt;
+&lt;li&gt;“启动游戏”可以查看游戏开发动态&lt;/li&gt;
+&lt;li&gt;”检查更新“可以检查启动器和游戏包体更新&lt;/li&gt;
+&lt;li&gt;“检查更新”可以下载最新版本&lt;/li&gt;
+&lt;li&gt;新增窗口系统，交互更友善&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-修复与优化&#34;&gt;🐞 修复与优化
+&lt;/h2&gt;&lt;h3 id=&#34;-ui&#34;&gt;⌨️ UI
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;启动动画增加一句描述&lt;/li&gt;
+&lt;li&gt;主菜单实现图片渐变效果&lt;/li&gt;
+&lt;li&gt;”开始游戏“按钮背景现在不能被选中&lt;/li&gt;
+&lt;li&gt;主菜单左上角新增版本信息&lt;/li&gt;
+&lt;li&gt;略微调整了按钮和菜单的位置&lt;/li&gt;
+&lt;li&gt;退出游戏新增提示语&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-显示&#34;&gt;🖥️ 显示
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;调整开始游戏按钮背景颜色和透明度&lt;/li&gt;
+&lt;li&gt;调整了按钮内部字体大小&lt;/li&gt;
+&lt;li&gt;优化字体显示效果，提升采样等级，并为字体增加描边，可读性大大提升&lt;/li&gt;
+&lt;li&gt;修改整个游戏显示模式，提升清晰度&lt;/li&gt;
+&lt;li&gt;修改抗锯齿模式和屏幕合成模式&lt;/li&gt;
+&lt;li&gt;支持DX12并采用Vulkan渲染&lt;/li&gt;
+&lt;li&gt;调整了部分按钮的圆角，观感更舒适&lt;/li&gt;
+&lt;li&gt;采用全屏无窗口模式启动游戏&lt;/li&gt;
+&lt;li&gt;新增着色器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-动画&#34;&gt;🎬 动画
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;重写Tween动画管线&lt;/li&gt;
+&lt;li&gt;全局支持打断动画&lt;/li&gt;
+&lt;li&gt;动画测试100%无BUG&lt;/li&gt;
+&lt;li&gt;加快了菜单动画速度&lt;/li&gt;
+&lt;li&gt;窗口支持可打断的淡入淡出效果&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-特性&#34;&gt;🛜 特性
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;文本支持BBCode&lt;/li&gt;
+&lt;li&gt;优化游戏包体大小，删除了无用的文件&lt;/li&gt;
+&lt;li&gt;优化了代码逻辑，减少代码长度&lt;/li&gt;
+&lt;li&gt;更换了捐赠付款码&lt;/li&gt;
+&lt;li&gt;更新了最新的捐赠名单&lt;/li&gt;
+&lt;li&gt;更新了捐赠款数和用途&lt;/li&gt;
+&lt;li&gt;修复了数不清的BUG&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-下一版本预告&#34;&gt;🌟 下一版本预告
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;还没想好，我能不能先休息一下？&lt;/li&gt;
+&lt;li&gt;目前大家的网络的情况应该可以直接访问，如果反馈的人多，我再提供国内链接&lt;/li&gt;
+&lt;li&gt;目前的字体不好看，下拉菜单样式不统一，部分场景卡顿，窗口叠加，性能开销大这些情况属于已知但未打算解决的问题或者是特性无法解决&lt;/li&gt;
+&lt;li&gt;请大家多多反馈问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-开发初心&#34;&gt;💡 开发初心
+&lt;/h2&gt;&lt;p&gt;ETN 项目立项于 2025年6月11日。&lt;br&gt;
+我致力于寻找回我高中的三年时光，
+谨以此作纪念我的高中三年。
+同时，感谢各位朋友的大力支持！&lt;/p&gt;
+&lt;h2 id=&#34;-下载地址点击跳转&#34;&gt;⬇️ 下载地址（点击跳转）
+&lt;/h2&gt;&lt;p&gt;1.0.0.0正式版——新起点。&lt;br&gt;
+仓库地址 &lt;a class=&#34;link&#34; href=&#34;https://github.com/GlacierXiaowei/ETN_Launcher&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;前往仓库页面&lt;/a&gt;&lt;br&gt;
+通用地址 &lt;a class=&#34;link&#34; href=&#34;https://github.com/GlacierXiaowei/ETN_Launcher/releases/tag/v1.0.0.0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;前往Github-release&lt;/a&gt;&lt;br&gt;
+国内网盘 &lt;a class=&#34;link&#34; href=&#34;https://www.123865.com/s/otkUjv-tWYUh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;前往123云盘&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ETN近期安排-2026.01</title>
+        <link>https://example.com/post/etn%E8%BF%91%E6%9C%9F%E5%AE%89%E6%8E%92-2026.01/</link>
+        <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/post/etn%E8%BF%91%E6%9C%9F%E5%AE%89%E6%8E%92-2026.01/</guid>
+        <description>&lt;img src="https://example.com/post/etn%E8%BF%91%E6%9C%9F%E5%AE%89%E6%8E%92-2026.01/post_cover.png" alt="Featured image of post ETN近期安排-2026.01" /&gt;&lt;h1 id=&#34;引言&#34;&gt;引言
+&lt;/h1&gt;&lt;p&gt;其实没什么可说，如果，我说如果没有数学的话😍，我应该会活得更好一些，现在有数学💩，我就有点想死😁&lt;/p&gt;
+&lt;h1 id=&#34;数学&#34;&gt;数学
+&lt;/h1&gt;&lt;p&gt;为什么要学数学，我不理解。马上就要期末考了，有点死了，能不能让我死，啊啊啊！！！&lt;br&gt;
+咳咳~对于一个计算机专业的同学来说，学好数学是非常有必要的。&lt;/p&gt;
+&lt;h2 id=&#34;etn系列还有别的游戏吗&#34;&gt;ETN系列还有别的游戏吗？
+&lt;/h2&gt;&lt;p&gt;有的兄弟有的。&lt;br&gt;
+这是我们近期在做的，很快就会和大家见面。&lt;br&gt;
+根据目前的安排，我们已经放弃白手起家的方案了。目前我们找到一个教程视频，将会教我们做一个农场RPG游戏，我们准备先按照这个教程做一个游戏，这样熟悉开发之后，再来做我们的ETN游戏。&lt;/p&gt;
+&lt;h2 id=&#34;关于etn游戏本体的命名&#34;&gt;关于ETN游戏本体的命名
+&lt;/h2&gt;&lt;p&gt;很抱歉一直没有告诉大家，在我们手里尚未发布的ETN_Launcher-V2.0.0.0版本已经明确写了游戏名字——&lt;br&gt;
+Embody The Now 活在当下&lt;br&gt;
+想到ETN还准备用这个ip做点别的游戏（或者demo）干脆其他的游戏就是带后缀的，我们的游戏本体就叫Embody The Now&lt;/p&gt;
+&lt;h2 id=&#34;启动器现在怎么样了&#34;&gt;启动器现在怎么样了
+&lt;/h2&gt;&lt;p&gt;Glacier当初写了很多屎山代码，现在想调整个UI，都变成牵一发而动全身了，所以目前工作量比较大。&lt;br&gt;
+目前我们将要调整UI布局（已完成）&lt;br&gt;
+新的字体（已完成 如果没有漏掉的话）&lt;br&gt;
+新的检查更新逻辑（基本完工）&lt;br&gt;
+完备的补丁系统（正在做）&lt;br&gt;
+下载游戏并完成安装部署（正在做）
+统一的MOD管理（准备放弃）&lt;br&gt;
+主要是，以前的代码有点屎山，所以改起来很烦！！！&lt;br&gt;
+究竟是谁写的！！！&lt;br&gt;
+另外之前有考虑分批呈现这些功能，但是Glacier的意见是，起码得弄好补丁系统吧，这样至少后期给启动器加更新可以方便一点，但是我们最开始涉及的用户数据系统有点问题，而且目前代码写死了，所以在改。&lt;br&gt;
+所以陷入——后期打补丁-&amp;gt;补丁系统没做好-&amp;gt;哈哈哈&lt;br&gt;
+另外我们希望做一个完整的游戏安装系统，体验最纯正的启动器体验。
+同样，由于开发商Glacier&amp;rsquo;s 冰川氏互娱正在考虑开发下一款游戏，所以&amp;hellip;&amp;hellip;启动器3.0也在规划中。
+所以我们现在的状态是Glacier坚持要拿出最好的作品，导致开发进度拖延&amp;hellip;&amp;hellip;(吐过没有期末考，也许现在就端出来了哈哈哈)&lt;/p&gt;
+&lt;h2 id=&#34;2026年有发版计划吗&#34;&gt;2026年有发版计划吗
+&lt;/h2&gt;&lt;p&gt;我们原定在2026春节期间给大家送上第一版技术性测试（根据开发商的计划，这一时间有极大的可能推迟！）&lt;br&gt;
+同时在2026年还将送上 美术测试、玩法测试、最终demo等等计划，发版计划将持续到2026年底。希望我们能够在2026推出可持续更新的版本，这样我们就可以立刻发布正式版，让大家更新哈。
+同时，我们希望在2026年探索新的游戏，我们希望探索更多的可能，更希望有一天可以和大家尽早见面，谢谢各位。&lt;/p&gt;
+&lt;h2 id=&#34;感谢&#34;&gt;感谢
+&lt;/h2&gt;&lt;p&gt;For everything we&amp;rsquo;re enjoying!&lt;br&gt;
+Glacier&amp;rsquo;s 冰川氏互娱 和 冰川小未本人祝各位新年快乐！！！&lt;br&gt;
+马到成功！！！
+感谢各位！！！&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

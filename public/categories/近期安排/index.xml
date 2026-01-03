@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>近期安排 on 冰粉俱乐部</title>
+        <link>https://example.com/categories/%E8%BF%91%E6%9C%9F%E5%AE%89%E6%8E%92/</link>
+        <description>Recent content in 近期安排 on 冰粉俱乐部</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Glacier&#39;s 冰川氏互娱</copyright>
+        <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/%E8%BF%91%E6%9C%9F%E5%AE%89%E6%8E%92/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ETN近期安排-2026.01</title>
+        <link>https://example.com/post/etn%E8%BF%91%E6%9C%9F%E5%AE%89%E6%8E%92-2026.01/</link>
+        <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/post/etn%E8%BF%91%E6%9C%9F%E5%AE%89%E6%8E%92-2026.01/</guid>
+        <description>&lt;img src="https://example.com/post/etn%E8%BF%91%E6%9C%9F%E5%AE%89%E6%8E%92-2026.01/post_cover.png" alt="Featured image of post ETN近期安排-2026.01" /&gt;&lt;h1 id=&#34;引言&#34;&gt;引言
+&lt;/h1&gt;&lt;p&gt;其实没什么可说，如果，我说如果没有数学的话😍，我应该会活得更好一些，现在有数学💩，我就有点想死😁&lt;/p&gt;
+&lt;h1 id=&#34;数学&#34;&gt;数学
+&lt;/h1&gt;&lt;p&gt;为什么要学数学，我不理解。马上就要期末考了，有点死了，能不能让我死，啊啊啊！！！&lt;br&gt;
+咳咳~对于一个计算机专业的同学来说，学好数学是非常有必要的。&lt;/p&gt;
+&lt;h2 id=&#34;etn系列还有别的游戏吗&#34;&gt;ETN系列还有别的游戏吗？
+&lt;/h2&gt;&lt;p&gt;有的兄弟有的。&lt;br&gt;
+这是我们近期在做的，很快就会和大家见面。&lt;br&gt;
+根据目前的安排，我们已经放弃白手起家的方案了。目前我们找到一个教程视频，将会教我们做一个农场RPG游戏，我们准备先按照这个教程做一个游戏，这样熟悉开发之后，再来做我们的ETN游戏。&lt;/p&gt;
+&lt;h2 id=&#34;关于etn游戏本体的命名&#34;&gt;关于ETN游戏本体的命名
+&lt;/h2&gt;&lt;p&gt;很抱歉一直没有告诉大家，在我们手里尚未发布的ETN_Launcher-V2.0.0.0版本已经明确写了游戏名字——&lt;br&gt;
+Embody The Now 活在当下&lt;br&gt;
+想到ETN还准备用这个ip做点别的游戏（或者demo）干脆其他的游戏就是带后缀的，我们的游戏本体就叫Embody The Now&lt;/p&gt;
+&lt;h2 id=&#34;启动器现在怎么样了&#34;&gt;启动器现在怎么样了
+&lt;/h2&gt;&lt;p&gt;Glacier当初写了很多屎山代码，现在想调整个UI，都变成牵一发而动全身了，所以目前工作量比较大。&lt;br&gt;
+目前我们将要调整UI布局（已完成）&lt;br&gt;
+新的字体（已完成 如果没有漏掉的话）&lt;br&gt;
+新的检查更新逻辑（基本完工）&lt;br&gt;
+完备的补丁系统（正在做）&lt;br&gt;
+下载游戏并完成安装部署（正在做）
+统一的MOD管理（准备放弃）&lt;br&gt;
+主要是，以前的代码有点屎山，所以改起来很烦！！！&lt;br&gt;
+究竟是谁写的！！！&lt;br&gt;
+另外之前有考虑分批呈现这些功能，但是Glacier的意见是，起码得弄好补丁系统吧，这样至少后期给启动器加更新可以方便一点，但是我们最开始涉及的用户数据系统有点问题，而且目前代码写死了，所以在改。&lt;br&gt;
+所以陷入——后期打补丁-&amp;gt;补丁系统没做好-&amp;gt;哈哈哈&lt;br&gt;
+另外我们希望做一个完整的游戏安装系统，体验最纯正的启动器体验。
+同样，由于开发商Glacier&amp;rsquo;s 冰川氏互娱正在考虑开发下一款游戏，所以&amp;hellip;&amp;hellip;启动器3.0也在规划中。
+所以我们现在的状态是Glacier坚持要拿出最好的作品，导致开发进度拖延&amp;hellip;&amp;hellip;(吐过没有期末考，也许现在就端出来了哈哈哈)&lt;/p&gt;
+&lt;h2 id=&#34;2026年有发版计划吗&#34;&gt;2026年有发版计划吗
+&lt;/h2&gt;&lt;p&gt;我们原定在2026春节期间给大家送上第一版技术性测试（根据开发商的计划，这一时间有极大的可能推迟！）&lt;br&gt;
+同时在2026年还将送上 美术测试、玩法测试、最终demo等等计划，发版计划将持续到2026年底。希望我们能够在2026推出可持续更新的版本，这样我们就可以立刻发布正式版，让大家更新哈。
+同时，我们希望在2026年探索新的游戏，我们希望探索更多的可能，更希望有一天可以和大家尽早见面，谢谢各位。&lt;/p&gt;
+&lt;h2 id=&#34;感谢&#34;&gt;感谢
+&lt;/h2&gt;&lt;p&gt;For everything we&amp;rsquo;re enjoying!&lt;br&gt;
+Glacier&amp;rsquo;s 冰川氏互娱 和 冰川小未本人祝各位新年快乐！！！&lt;br&gt;
+马到成功！！！
+感谢各位！！！&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
